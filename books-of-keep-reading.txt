@@ -1,0 +1,20 @@
+学习要求:
+    1:  使用html做笔记
+    2:  摘记陌生的单词和句子
+
+
+
+编程:
+    <<flask web development >>.目前得先复习之前所学的，然后熟悉书中用到的大型项目结构，才能进一步去学习社交app项目的开发
+    
+    
+英语:
+    <<learn to speak like a native>>.目前只看了一点
+    
+    
+电学:
+    <<teach youself electricity and electronic>>.目前只看了一点
+    
+    
+心理学:
+    <<365 days with self discipline>>.目前只学了一点
